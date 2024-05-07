@@ -1,10 +1,10 @@
 """This is the main file"""
 
-def main() -> str:
-    """Prints Hello World"""
-    a_string = "Hello World"
-    return a_string
+def object_multilevel_task(given_level, given_task):
+    """This function is used to define the multilevel_task object"""
+    tasks = []
+    current_level = []
+    for level in given_level:
+        tasks.append(given_task)
 
-if __name__ == "__main__":
-    print(main())
 # End-of-file (EOF)
