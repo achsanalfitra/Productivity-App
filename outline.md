@@ -36,6 +36,11 @@ This project focuses on solving the problem of productivity by creating a Python
         - Routine:
         - Urgency: 
         - Dependency:
+        - Notes:
+        - Time Tracker:
+        - Status Board:
+        - 
+
 
     b.
 
