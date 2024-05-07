@@ -39,7 +39,7 @@ This project focuses on solving the problem of productivity by creating a Python
         - Notes:
         - Time Tracker:
         - Status Board:
-        - 
+        - Attachment:
 
 
     b.
