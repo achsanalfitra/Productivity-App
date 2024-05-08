@@ -32,6 +32,7 @@ This project focuses on solving the problem of productivity by creating a Python
         - Project: The biggest type of work. It should be unique. (Example: getting into university, renovating a house)
         - Job: The average work that can be done. Doesn't have to be unique. (Example: writing emails, writing tasks, studying)
         - Task: Simplest type of work. This is the activity in details. (Example: open application, close window, read books)
+        - Multilevel Task: Projects, Jobs, and Tasks all go into this. Level 1 task should be higher level, level 2 task should be a level lower, and so forth.
         - Hierarchy: The 
         - Routine:
         - Urgency: 
